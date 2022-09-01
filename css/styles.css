@@ -1,12 +1,25 @@
 *{
     margin: 20px;
     padding: 0px;
-    background-color: beige;
+    background-color:aquamarine;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
+}
+h1{
+    background-color: aqua;
+    padding-left: 20px;
+    text-shadow: 2px 2px 3px grey;
+}
+p{
+    background-color: aqua;
 }
 .header{
     width: 700px;
     height: 300px;
-    border: 1px solid gray;
+    border-radius: 2%;
+    box-shadow: inset;
+    border: 2px solid rgb(21, 78, 21);
+    box-shadow: 2px 2px 3px grey;
+    background-color: aqua;
+    margin: 0 auto;
 }
